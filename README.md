@@ -20,7 +20,7 @@ So, **Pair Select** gives you the power to do that with very minimal lines of co
 
 Demo 
 -----
-[Here is live debo by VoidCanvas.](http://www.voidcanvas.com/demo/7511pair-select/)
+[Here is live demo by VoidCanvas.](http://www.voidcanvas.com/demo/7511pair-select/)
 
 Tutorial
 --------
