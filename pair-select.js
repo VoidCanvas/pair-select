@@ -1,7 +1,7 @@
 /*
 ##Plugin Details##
 	Plugin Name: Pair Select
-	Version: 0.1
+	Version: 1.0.0
     Plugin by: Void Canvas
     Website: www.voidcanvas.com
     Author: Paul Shan

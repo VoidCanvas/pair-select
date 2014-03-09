@@ -20,9 +20,10 @@ So, **Pair Select** gives you the power to do that with very minimal lines of co
 
 Demo 
 -----
-Here is live debo by VoidCanvas.
+[Here is live debo by VoidCanvas.](http://www.voidcanvas.com/demo/7511pair-select/)
 
 Tutorial
 --------
-A nice tutorial from VoidCanvas
+[A nice tutorial from VoidCanvas.](http://voidcanvas.com/move-option-from-one-select-box-to-another-and-vice-versa)
+
 
