@@ -1,11 +1,10 @@
 {
-  "name": "Pair Select",
+  "name": "PairSelect",
   "title": "PairSelect.js",
   "description": "A plugin to communicate between two html select.",
   "keywords": [
     "pairselect",
     "pairselect.js",
-    "Pair Select"
   ],
   "version": "1.0.0",
   "author": {
